@@ -15,7 +15,7 @@ Dynamic scaling has been implemented with the aid of the Eureka naming server an
 
 ​
 
-Microservices fault tolerance with circuit breaker.​​
+.​​
 
 ​
 
