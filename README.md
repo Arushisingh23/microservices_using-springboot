@@ -10,10 +10,10 @@
 This repository showcases the creation and deployment of microservices using Spring Boot. It includes code for building microservices and deploying them in a microservices based architecture. Both aspects of the microservices implementation are covered in this project.
 
 Tools:
-Spring Boot 
-Docker
-Eclipse IDE
-Git client
+Spring Boot,
+Docker,
+Eclipse IDE,
+Git client.
 
 Orchestration platform: Kubernetes
 
