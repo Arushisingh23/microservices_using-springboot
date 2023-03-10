@@ -36,4 +36,4 @@ Using Docker and Kubernetes, containerization and deployment have been carried o
 
 
 
-working demo the project:https://drive.google.com/file/d/1HOLN3WYC7sSg2JSixInGkkqnxTRvSBdu/view?usp=sharing
+working demo of the project:https://drive.google.com/file/d/1HOLN3WYC7sSg2JSixInGkkqnxTRvSBdu/view?usp=sharing
