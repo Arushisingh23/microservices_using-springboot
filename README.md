@@ -34,6 +34,24 @@ Dynamic scaling has been implemented with the aid of the Eureka naming server an
 Using Docker and Kubernetes, containerization and deployment have been carried out​​
 
 
+URLS
+
+Currency Exchange Service
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+Currency Conversion Service
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+
+Eureka
+http://localhost:8761/
+
+Zipkin
+http://localhost:9411/
+
+API GATEWAY
+http://localhost:8765/currency-conversion-feign/from/USD/to/INR/quantity/10
+http://localhost:8765/currency-conversion-new/from/USD/to/INR/quantity/10
+
 
 
 working demo of the project:https://drive.google.com/file/d/1HOLN3WYC7sSg2JSixInGkkqnxTRvSBdu/view?usp=sharing
