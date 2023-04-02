@@ -61,3 +61,7 @@ http://localhost:8765/currency-conversion-new/from/USD/to/INR/quantity/10
 
 
 working demo of the project:https://drive.google.com/file/d/1HOLN3WYC7sSg2JSixInGkkqnxTRvSBdu/view?usp=sharing
+
+
+
+document link:https://docs.google.com/document/d/1PZxmxUaCa3izWuE4B83BR0xLRzN59Tx6VpKQSjF4sDc/edit?usp=sharing
